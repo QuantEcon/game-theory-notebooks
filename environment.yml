@@ -1,0 +1,16 @@
+name: notebooks-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - numba
+  - sympy
+  - requests
+  - ipython
+  - matplotlib
+  - networkx
+  - pip:
+    - quantecon
+    - python-ternary
