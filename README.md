@@ -35,5 +35,8 @@ A collection of game theory notebooks
 
 ## Repeated games
 
-* [Abreu-Sannikov Algorithm for Repeated Two-player Games](https://nbviewer.jupyter.org/github/QuantEcon/game-theory-notebooks/blob/main/as_py.ipynb)
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/game-theory-notebooks/main?labpath=as_py.ipynb)
+* Abreu-Sannikov Algorithm for Repeated Two-player Games
+  [[Python](https://nbviewer.jupyter.org/github/QuantEcon/game-theory-notebooks/blob/main/as_py.ipynb)
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/game-theory-notebooks/main?labpath=as_py.ipynb)]
+  [[Julia](https://nbviewer.jupyter.org/github/QuantEcon/game-theory-notebooks/blob/main/as_jl.ipynb)
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/game-theory-notebooks/main?labpath=as_jl.ipynb)]
